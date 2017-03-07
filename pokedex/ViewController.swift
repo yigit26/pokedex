@@ -24,7 +24,7 @@ class ViewController: UIViewController, UICollectionViewDelegate, UICollectionVi
         
         searchBar.returnKeyType = UIReturnKeyType.done
         self.parsePokemonCSV()
-        //self.initAudio()
+        self.initAudio()
     }
     
     func initAudio(){
