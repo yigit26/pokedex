@@ -1,2 +1,2 @@
 # pokedex
-pokedex just an app for practicing.
+pokedex is just an app for practicing.
